@@ -1,0 +1,78 @@
+#xf_MODAL_CONTAINER .xfmodal-header {
+    border-bottom: 1px solid #e5e5e5;
+}
+#xf_MODAL_CONTAINER #xfMODALFOOTER {
+    display:none
+}
+#xf_MODAL_CONTAINER #xf_MODAL {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#xf_MODAL_CONTAINER #xfMODALTITLE {
+    display: none;
+}
+#xf_MODAL_CONTAINER .fa {
+}
+#xf_MODAL_CONTAINER #xfMODALCONTENT {
+    border: none;
+}
+#xf_MODAL_CONTAINER #xfMODALCONTENT{
+    width:90%;
+    height:700px;
+    max-width: 500px;
+    background: none;
+}
+#xf_MODAL_CONTAINER #xfMODALBODY {
+    height:100%;
+    -webkit-overflow-scrolling: touch;
+}
+#xf_MODAL_CONTAINER #xf_MODAL{
+    /*overflow:hidden;*/
+}
+#xf_MODAL_CONTAINER #xfMODALCONTENT {
+    width: 100% !important;
+    height:100%;
+    margin: 0 !important;
+    background: none;
+    max-width: none !important;
+}
+
+
+#xf_MODAL_CONTAINER .cpabuildmodal-header {
+    border-bottom: 1px solid #e5e5e5;
+}
+#xf_MODAL_CONTAINER #xfMODALFOOTER {
+    display:none
+}
+#xf_MODAL_CONTAINER #xf_MODAL {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#xf_MODAL_CONTAINER #xfMODALTITLE {
+    display: none;
+}
+#xf_MODAL_CONTAINER .fa {
+}
+#xf_MODAL_CONTAINER #xfMODALCONTENT {
+    border: none;
+}
+#xf_MODAL_CONTAINER #xfMODALCONTENT{
+    width:90%;
+    height:700px;
+    max-width: 500px;
+    background: none;
+}
+#xf_MODAL_CONTAINER #xfMODALBODY {
+    height:100%;
+    -webkit-overflow-scrolling: touch;
+}
+#xf_MODAL_CONTAINER #xf_MODAL{
+    /*overflow:hidden;*/
+}
+#xf_MODAL_CONTAINER #xfMODALCONTENT {
+    width: 100% !important;
+    height:100%;
+    margin: 0 !important;
+    background: none;
+    max-width: none !important;
+}
